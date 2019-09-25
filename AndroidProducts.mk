@@ -14,7 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/du_oneplus3.mk
-
-COMMON_LUNCH_CHOICES := \
-    du_oneplus3-userdebug
+    $(LOCAL_DIR)/du.mk
